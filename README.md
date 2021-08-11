@@ -1,7 +1,8 @@
 <div align="center">
  
 # DOPAMIN BOT
-<details>
+Free code of Dopamin bot.
+ <details>
  <summary>🥟 Help me!</summary>
 
  [Saweria](https://saweria.co/donate/yogasakti)
@@ -11,8 +12,7 @@
  [Paypal.me](https://paypal.me/yshputra)
  
 </details>
-
-Free code of Dopamin bot.
+ 
 # **What is?**
 This is the code for the Dopamin bot.
 # How To Get?
