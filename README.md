@@ -1,5 +1,20 @@
-# dopaminbot
-<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/clumbuzz','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+<div align="center">
+ 
+# THIS REPOSITORY IS OUTDATED AND NOT MAINTAINED AGAIN, ALL THE ISSUES OR PULL REQUESTS WILL BE IGNORED.
+ 
+# Whatsapp Bot - sticker creator
+[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
+<details>
+ <summary>🥟 Help me!</summary>
+
+ [Saweria](https://saweria.co/donate/yogasakti)
+ 
+ [Trakteer](https://trakteer.id/red-emperor)
+ 
+ [Paypal.me](https://paypal.me/yshputra)
+ 
+</details>
+</div>
 Free code of Dopamin bot.
 # **What is?**
 This is the code for the Dopamin bot.
