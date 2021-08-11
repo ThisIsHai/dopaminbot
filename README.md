@@ -1,4 +1,5 @@
 <div align="center">
+ 
 # DOPAMIN BOT
 <details>
  <summary>🥟 Help me!</summary>
