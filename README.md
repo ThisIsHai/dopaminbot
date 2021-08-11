@@ -1,7 +1,4 @@
 <div align="center">
- 
-# THIS REPOSITORY IS OUTDATED AND NOT MAINTAINED AGAIN, ALL THE ISSUES OR PULL REQUESTS WILL BE IGNORED.
- 
 # DOPAMIN BOT
 <details>
  <summary>🥟 Help me!</summary>
