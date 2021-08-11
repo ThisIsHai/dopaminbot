@@ -1,5 +1,5 @@
 # dopaminbot
-[![Codefactor](https://cdn.trakteer.id/js/embed/trbtn.min.js)](https://trakteer.id/clumbuzz)
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/clumbuzz','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
 Free code of Dopamin bot.
 # **What is?**
 This is the code for the Dopamin bot.
