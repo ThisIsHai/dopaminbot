@@ -1,5 +1,5 @@
 # dopaminbot
-[![Support Me On Trakteer](https://trakteer.id/clumbuzz)
+[![Support Me On Trakteer](https://trakteer.id/clumbuzz)]
 Free code of Dopamin bot.
 # **What is?**
 This is the code for the Dopamin bot.
